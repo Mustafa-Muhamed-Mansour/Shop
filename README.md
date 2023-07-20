@@ -5,7 +5,6 @@
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes.
 - [Jetpack Compose](https://developer.android.com/jetpack/compose/tutorial): A simple use on Android with Jetpack Compose.
 - [Retrofit](https://github.com/square/retrofit): Used for REST API communication.
-- [Room](https://developer.android.com/topic/libraries/architecture/room): Used to create room db and store the data.
 - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines): A coroutine is a concurrency design pattern you can use on Android to simplify code that executes asynchronously.
 - [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android) : For dependency injection.
 
